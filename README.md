@@ -10,7 +10,7 @@
 2. [Everything Postgres](https://www.pg4e.com/lessons/week7#)  
    Start Date: Oct 19, 2020
 
-3. MongoDB Data Analysis](https://classroom.udacity.com/courses/ud032/lessons/491558559/concepts/8165990800923)
+3. [MongoDB Data Analysis](https://classroom.udacity.com/courses/ud032/lessons/491558559/concepts/8165990800923)
 
 4. [Kubernetes Deep Dive](https://learn.acloud.guru/course/kubernetes-deep-dive/dashboard)
    This is a paid subscription on A Cloud Guru. I have to keep up with everything Cloud these days.
