@@ -1,5 +1,5 @@
-# data_engineering_curriculum
-### Courses that I am studying right now to be a better full-stack data person
+# My Data Engineering Curriculum
+### Courses that I am studying right now to be a better full-stack data person. This curriculum is purely driven by self interests and inner motivations
 
 
 ## Database
