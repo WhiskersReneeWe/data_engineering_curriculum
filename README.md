@@ -1,5 +1,5 @@
 # My Data Engineering Curriculum
-### Courses that I am studying right now to be a better full-stack data person. This curriculum is purely driven by self interests and inner motivations
+### Courses that I am studying right now in order to be a better full-stack data person. This curriculum is purely driven by self interests and inner motivations. This only captures the structured part of my learning journey. A complete way to learn is to learn as often as I can, and from any type of sources that help me improve my understanding of a whole data process ranging from data engineering to machine learning model deployment. It is a fun life-long journey.
 
 
 ## Database
