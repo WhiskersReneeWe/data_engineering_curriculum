@@ -12,10 +12,21 @@
 
 3. [MongoDB Data Analysis](https://classroom.udacity.com/courses/ud032/lessons/491558559/concepts/8165990800923)
 
-4. [Kubernetes Deep Dive](https://learn.acloud.guru/course/kubernetes-deep-dive/dashboard)
+
+## 'Cloudy' Things
+1. [Kubernetes Deep Dive](https://learn.acloud.guru/course/kubernetes-deep-dive/dashboard)
    This is a paid subscription on A Cloud Guru. I have to keep up with everything Cloud these days.
    
    
+## Certifications & Nanodegrees 
+
+1. Google Cloud Platform Certified Professional Data Engineer (Certified on Sep 29, 2020 - )
+2. Udacity Data Scientist Nanodegree (Completed)
+3. Udacity Data Engineering Nanodegree (Completed)
+4. Udacity Machine Learning Nanodegree (Completed)
+5. Udacity Deep Learning Nanodegree (Completed)
+6. Udacity Full Stack Developer Nanodegree (Completed)
+7. Deep Learning Specialization (Coursera & Deeplearning.ai)
    
  ## (More to come. One thing at a time)
 
