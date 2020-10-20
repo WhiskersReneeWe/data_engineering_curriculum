@@ -4,7 +4,7 @@
 
 ## Database
 
-1. [Foundations of Database System](https://www.youtube.com/user/CS186Berkeley/playlists) 
+1. (optional)[Foundations of Database System](https://www.youtube.com/user/CS186Berkeley/playlists) 
    Start Date: Oct 12, 2020
    
 2. [Everything Postgres](https://www.pg4e.com/lessons/week7#)  
