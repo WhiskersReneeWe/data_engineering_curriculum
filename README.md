@@ -10,8 +10,10 @@
    
 2. [Everything Postgres](https://www.pg4e.com/lessons/week7#)  
    Start Date: Oct 19, 2020
-
-3. (optional)[MongoDB Data Analysis - Lesson 7](https://classroom.udacity.com/courses/ud032/lessons/491558559/concepts/8165990800923)
+   
+   
+## Big Data
+1. [Understand Hadoop](https://classroom.udacity.com/courses/ud617/lessons/306818608/concepts/3092736780923)
 
 
 ## 'Cloudy' Things
