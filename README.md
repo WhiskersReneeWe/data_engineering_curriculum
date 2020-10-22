@@ -14,7 +14,7 @@
    
 ## Big Data
 1. [Understand Hadoop](https://classroom.udacity.com/courses/ud617/lessons/306818608/concepts/3092736780923)
-   Start Date: Oct 22, 2020
+   Completed. Pretty intuitve and general intro
 
 ## 'Cloudy' Things
 1. [Kubernetes Deep Dive](https://learn.acloud.guru/course/kubernetes-deep-dive/dashboard)
