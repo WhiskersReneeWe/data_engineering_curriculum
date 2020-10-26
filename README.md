@@ -12,6 +12,9 @@
    Start Date: Oct 19, 2020
    
 3. [Computer Networking](https://www.coursera.org/learn/computer-networking/lecture/7WFyg/course-introduction)
+
+4. [Nand to Tetris II](https://www.nand2tetris.org/)
+    * Machine Language
    
    
 ## Big Data
